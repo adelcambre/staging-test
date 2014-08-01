@@ -1,0 +1,4 @@
+[submodule "test"]
+	path = test
+	url = git@github.com:adelcambre/test.git
+	branch = submod
